@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiruthiyaashree&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthiyaashree" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiruthiyaashree" alt="kiruthiyaashree" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [kiruthiyaashree-portfolio.onrender.com](kiruthiyaashree-portfolio.onrender.com)
 
 - 📫 How to reach me **kiruthiyaashreesp@gmail.com**
