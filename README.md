@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiruthiyaashree&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthiyaashree" /> </p>
 
-- 👨‍💻 All of my projects are available at [kiruthiyaashree-portfolio.onrender.com](kiruthiyaashree-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [kiruthiyaashree-portfolio.onrender.com]  (kiruthiyaashree-portfolio.onrender.com)
 
 - 📫 How to reach me **kiruthiyaashreesp@gmail.com**
 
